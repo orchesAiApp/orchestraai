@@ -28,7 +28,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone <repository-url>
-cd v0-agent-orchestration-dashboard
+cd agent-orchestration-dashboard
 npm install
 # or
 yarn install
